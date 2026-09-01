@@ -1,0 +1,10 @@
+{
+  "buildCommand": "cd aymen-toubal-portfolio && npm install && npm run build",
+  "outputDirectory": "aymen-toubal-portfolio/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

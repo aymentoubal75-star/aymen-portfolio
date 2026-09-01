@@ -1,0 +1,1 @@
+export const skills={Frontend:['HTML','CSS','JavaScript','React','Tailwind CSS'],Apps:['Responsive Apps','Interactive UI','Web App Architecture'],Design:['UI/UX','Responsive Design','Prototyping','Visual Design'],Tools:['Vite','Git/GitHub','Figma','Framer Motion']};

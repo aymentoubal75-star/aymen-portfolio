@@ -1,0 +1,12 @@
+{
+  "name": "aymen-toubal-portfolio-root",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "cd aymen-toubal-portfolio && npm run dev",
+    "build": "cd aymen-toubal-portfolio && npm run build",
+    "preview": "cd aymen-toubal-portfolio && npm run preview",
+    "install": "cd aymen-toubal-portfolio && npm install"
+  }
+}
