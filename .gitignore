@@ -1,0 +1,6 @@
+node_modules/
+aymen-toubal-portfolio/node_modules/
+dist/
+aymen-toubal-portfolio/dist/
+.vercel/
+*.log
